@@ -8,7 +8,7 @@ export default function Page() {
     <main className="max-w-6xl mx-auto px-4 py-10">
       {/* Hero Section */}
       <section className="flex flex-col items-center text-center py-20" id="hero">
-        <h1 className="text-4xl font-extrabold mb-4">SINCRONIX - SOLUÇÕES</h1>
+        <h1 className="text-4xl font-extrabold mb-4">RJR - SOLUÇÕES</h1>
         <p className="text-lg text-gray-700 max-w-xl mb-6">
           Terceirização de serviços técnicos e mão de obra especializada, integrando soluções em energia solar, segurança eletrônica, CFTV, automação, IoT e muito mais. Sincronizando pessoas, empresas e negócios.
         </p>
@@ -21,7 +21,7 @@ export default function Page() {
 
       {/* Sobre - Missão, Visão, Valores */}
       <section id="sobre" className="py-10">
-        <h2 className="text-3xl font-bold text-center mb-8">Sobre a SINCRONIX</h2>
+        <h2 className="text-3xl font-bold text-center mb-8">Sobre a RJRSOLUCOES</h2>
         <div className="grid md:grid-cols-3 gap-8">
           <Card>
             <CardHeader>
@@ -66,7 +66,7 @@ export default function Page() {
       <section id="servicos" className="py-10">
         <h2 className="text-3xl font-bold text-center mb-8">Nossos Serviços</h2>
         <p className="text-center max-w-2xl mx-auto mb-10 text-gray-700">
-          A SINCRONIX oferece uma gama completa de soluções: terceirização de mão de obra especializada, energia solar, segurança eletrônica, automação residencial e industrial, CFTV, interfonia, telecomunicações, IoT e muito mais.
+          A RJRSOLUCOES oferece uma gama completa de soluções: terceirização de mão de obra especializada, energia solar, segurança eletrônica, automação residencial e industrial, CFTV, interfonia, telecomunicações, IoT e muito mais.
         </p>
 
         <div className="grid md:grid-cols-3 gap-8">
@@ -105,7 +105,7 @@ export default function Page() {
       <section className="py-10">
         <h2 className="text-3xl font-bold text-center mb-8">Compromisso ESG</h2>
         <p className="max-w-2xl mx-auto text-center text-gray-700 mb-8">
-          A SINCRONIX busca contribuir para um mundo mais sustentável, justo e inclusivo. Investimos em projetos sociais, criamos empregos locais e promovemos profissionalização para integrar pessoas ao mercado de trabalho.
+          A RJRSOLUCOES busca contribuir para um mundo mais sustentável, justo e inclusivo. Investimos em projetos sociais, criamos empregos locais e promovemos profissionalização para integrar pessoas ao mercado de trabalho.
         </p>
       </section>
 
@@ -118,7 +118,7 @@ export default function Page() {
           Entre em contato conosco e descubra como nossas soluções integradas podem tornar seu projeto mais eficiente, seguro e sustentável.
         </p>
         <Button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3" asChild>
-          <a href="mailto:contato@sincronix.com.br">Fale Conosco</a>
+          <a href="mailto:rjr89000@gmail.com">Fale Conosco</a>
         </Button>
       </section>
     </main>

@@ -17,7 +17,7 @@ const AnimatedBackground: React.FC = () => {
 
     const particles: Particle[] = []
     const particleCount = 100
-    const colors = ['#1264E8FF', '#3F4144FF', '#93C5FD', '#415C7DFF']
+    const colors = ['#046D09FF', '#3F4144FF', '#538851FF', '#4A535EFF']
 
     class Particle {
       x: number

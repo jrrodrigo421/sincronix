@@ -57,7 +57,7 @@ import AnimatedBackground from '@/components/ui/animated-background'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'SINCRONIX - Soluções',
+  title: 'RJR - Soluções',
   description: 'Terceirização de serviços técnicos e soluções integradas em segurança eletrônica, energia solar e automação.',
 }
 
@@ -72,7 +72,7 @@ export default function RootLayout({
         <AnimatedBackground />
         <header className="sticky top-0 z-50 bg-white border-b border-gray-200">
           <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
-            <div className="text-xl font-bold">SINCRONIX</div>
+            <div className="text-xl font-bold">RJRSOLUCOES</div>
             <NavigationMenu>
               <NavigationMenuList>
                 <NavigationMenuItem>
@@ -91,7 +91,7 @@ export default function RootLayout({
         {children}
         <footer className="bg-gray-50 border-t border-gray-200 py-6 mt-10">
           <div className="max-w-6xl mx-auto px-4 text-center text-sm text-gray-600">
-            © {new Date().getFullYear()} SINCRONIX - Todos os direitos reservados.
+            © {new Date().getFullYear()} RJRSOLUCOES - Todos os direitos reservados.
           </div>
         </footer>
       </body>
